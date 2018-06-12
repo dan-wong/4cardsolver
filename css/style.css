@@ -1,0 +1,14 @@
+body {
+    margin-top: 3em;
+    font-family: 'Merriweather', serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    font-family: 'Merriweather', serif;
+}
+.number-input {
+    width: 60px;
+    margin-right: 10px;
+}
